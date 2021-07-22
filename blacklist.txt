@@ -1,0 +1,1 @@
+# Here add words that the bot should NOT learn
